@@ -1,0 +1,8 @@
+
+An Port 1 muss der Berürungssensor angeschlossen sein.
+1. Das Main Programm starten.
+2. Als erstes kommt ein Menü wo ihr die Mitspieler Einstellen könnt.(Linke Taste ein Spieler weg, Rechte Taste ein Spieler hinzu, mit Mittlerer Taste die Auswahl Bestätigen)
+3. Nun beginnt der Reaktionstest
+4. Nachdem der Reaktionstest geendet ist Könnt ihr die Reaktionszeiten sehen.
+5. Mit der Rechten Taste könnt ihr die Highscore sehen.
+6. Das Programm könnt ihr mit dem Mitleren Butten beenden.
